@@ -1,0 +1,30 @@
+{
+  "name": "anydoor2",
+  "version": "1.0.1",
+  "description": "anydoor2 ",
+  "main": "src/index.js",
+  "bin": {
+    "anydoor":"bin/anydoor"
+  },
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "eslint": "^5.0.1",
+    "handlebars": "^4.0.11",
+    "yargs": "^12.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangmeiming/anydoor2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangmeiming/anydoor2/issues"
+  },
+  "homepage": "https://github.com/zhangmeiming/anydoor2#readme",
+  "keywords": []
+}
